@@ -77,15 +77,18 @@ The goal is to transform decades of raw data into clear insights and reliable fo
 
 ## 📁 Repository Structure
 
-├── Enteric_Fermentation_to_Forecasts.ipynb # Main notebook
+📦 from-enteric-fermentation-to-forecasts
+├── 📘 Enteric_Fermentation_to_Forecasts.ipynb # Main analysis notebook
 
-├── cleaned_FAOSTAT.csv # Processed dataset (generated)
+├── 📄 README.md # Project documentation
 
-├── README.md # Project documentation
+├── 📜 LICENSE # License information
 
-├── LICENSE # License info
+├── 🧹 .gitignore # Ignored files & folders
 
-└── .gitignore # Ignored files
+└── 📂 data/ 
+    
+  └── FAOSTAT_raw.csv  # Raw FAOSTAT dataset
 
 
 ---
